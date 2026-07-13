@@ -1,16 +1,5 @@
 # Contributing
 
-Thank you for considering contributing!
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
-All contributions are welcome, including:
-
-- Bug reports
-- Bug fixes
-- Documentation improvements
-- Enhancements
-- Ideas
-- Feature requests
-
-Please open an issue before making major changes.
-
-Happy coding!
+Thank you for helping improve this project!
