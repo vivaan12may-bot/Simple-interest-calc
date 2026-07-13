@@ -1,13 +1,17 @@
-# Simple Interest Calculator
+# github-final-project - Simple Interest Calculator
 
-This project contains a Bash script that calculates simple interest.
+## Description
+A simple interest calculator that calculates the interest amount based on principal, rate, and time.
 
 ## Formula
 
 Simple Interest = (Principal × Rate × Time) / 100
 
-## Technologies
-- Bash
+## Usage
 
-## Author
-Vivaan
+Enter:
+- Principal amount
+- Rate of interest
+- Time period
+
+The calculator will return the simple interest value.
